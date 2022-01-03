@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ly5BM32L240XG7pCGrjrpSQWYI4gZE5gLxvLPDrB2/yaUoTN5hexRMrBRaDJECuYJiu7EuaJ6tmNulDnwhvp4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\casper\\Desktopum\\OKUL-SLAYTLAR\\Computer Networks (Bilgisayar Ağları)\\ödevler\\TCPClient\\TCPClient\\TCPClient\\TCPClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\casper\\.nuget\\packages\\supersimpletcp\\2.4.0\\supersimpletcp.2.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
